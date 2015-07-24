@@ -1,6 +1,6 @@
 # LWSlideShow
 
-
+![screenshot1](https://github.com/imhui/LWSlideShow/blob/master/sample.png?raw=true)
 
 ## usage
 
